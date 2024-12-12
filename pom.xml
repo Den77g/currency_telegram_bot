@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sandbox-garden</groupId>
-    <artifactId>tutor-bot</artifactId>
+    <artifactId>currency-telegram-bot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>tutor-bot</name>
-    <description>tutor-bot</description>
+    <name>currency-telegram-bot</name>
+    <description>currency-telegram-bot</description>
     <url/>
     <licenses>
         <license/>
