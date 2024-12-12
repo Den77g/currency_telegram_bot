@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### Sensetive content ###
-.env
+*.env
 config/application-secure.properties
